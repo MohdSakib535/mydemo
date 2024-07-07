@@ -81,6 +81,7 @@ class snippet_details(APIView):
 class Resource_view(APIView):
     def get(self,request,format=None):
         user_data=Resource.objects.all()
+        print('user-data---',user_data)
         serlizer_data=ResourceSerializer(user_data,many=True,context={'request': request})
         return Response({"Response":serlizer_data.data})
     

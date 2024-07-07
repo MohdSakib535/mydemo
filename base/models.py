@@ -81,6 +81,7 @@ class Movie(models.Model):
     @property
     def new_description(self):
         return f"{self.title} and {self.description}"
-    
+
+
 
     
