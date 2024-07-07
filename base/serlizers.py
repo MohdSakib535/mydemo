@@ -91,8 +91,6 @@ class ResourceSerializer(serializers.ModelSerializer):
 
     def to_representation(self, instance):
         representation = super().to_representation(instance)
-        # print('----',representation)
-        # print('--count--',instance.liked_by.count())
         representation['likes'] = instance.liked_by.count()
 
         return representation
@@ -102,3 +100,4 @@ class ResourceSerializer(serializers.ModelSerializer):
         resource_data = data['resource']
 
         return super().to_internal_value(resource_data)
+

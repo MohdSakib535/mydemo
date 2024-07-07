@@ -35,14 +35,12 @@ class snippet_view(APIView):
     def post(self,request):
         try:
             params=request.data
-            print('data----------',params.get('user_data'))
             usr_Data=User.objects.filter(id=params.get('user_data'))
-            print('user_data--------',usr_Data)
             if not usr_Data:
                 return Response({"MSG":"user data doesnot exist"})
             serlizers_data=snippetser(data=params)
             if serlizers_data.is_valid():
-                print('before---validate')
+
                 serlizers_data.save()
                 print('data save')
             else:
@@ -55,16 +53,12 @@ class snippet_view(APIView):
 
 class snippet_details(APIView):
     def get(self,request,pk,format=None):
-        print('pk---',pk)
         try:
             s1=Snippet.objects.get(pk=pk)
-
-            print(s1)
         except Exception as err:
             from sentry_sdk import capture_message
             from sentry_sdk import a
             capture_message({"MSG":"error from sentry","error":err}, level="error")
-            print('error--------data')
 
             logger.warning(f"Error in Get request in Snippet details .....GET {err}")
             return Response({"error":err})

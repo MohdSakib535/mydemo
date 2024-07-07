@@ -76,6 +76,11 @@ class Movie(models.Model):
     @cached_property
     def movie_title_with_description(self):
         return f"{self.title} and {self.description}"
+
+
+    @property
+    def new_description(self):
+        return f"{self.title} and {self.description}"
     
 
     
