@@ -81,11 +81,13 @@ class snippet_details(APIView):
 class Resource_view(APIView):
     def get(self,request,format=None):
         user_data=Resource.objects.all()
+        print('user_dara-------------',user_data)
         serlizer_data=ResourceSerializer(user_data,many=True,context={'request': request})
         return Response({"Response":serlizer_data.data})
     
     def post(self,request):
         r_data=ResourceSerializer(data=request.data)
+        print("r_data----------",r_data)
         if r_data.is_valid():
             r_data.save()
             return Response({"response":r_data.data})
