@@ -1,0 +1,1 @@
+newrelic-admin generate-config 7cdbd7f79601ee9d8cef5aed9e085FFFFNRAL newrelic.ini
