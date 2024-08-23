@@ -1668,3 +1668,367 @@ urllib3.connectionpool DEBUG 2024-05-14 11:22:11,468 connectionpool 11064 4924 h
 urllib3.connectionpool DEBUG 2024-05-14 11:22:11,667 connectionpool 11064 4924 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
 django.utils.autoreload INFO 2024-05-14 11:23:37,380 autoreload 11064 7312 C:\Users\DEV-018\Desktop\sakib\demo\demo\urls.py changed, reloading.
 django.utils.autoreload INFO 2024-05-14 11:23:40,252 autoreload 1268 6896 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-07-30 12:40:03,565 autoreload 16244 5240 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-07-30 12:52:27,663 autoreload 16244 5240 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\models.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 12:52:28,422 autoreload 16624 19304 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 12:52:30,341 connectionpool 16624 16628 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 12:52:30,775 connectionpool 16624 16628 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-07-30 12:52:31,810 autoreload 16624 19304 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\models.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 12:52:32,769 autoreload 7336 7824 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 12:52:32,848 connectionpool 7336 18584 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 12:52:33,265 connectionpool 7336 18584 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-07-30 12:52:35,291 autoreload 7336 7824 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\models.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 12:52:36,039 autoreload 18568 16084 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 12:52:36,117 connectionpool 18568 10476 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 12:52:36,494 connectionpool 18568 10476 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-07-30 12:52:38,453 autoreload 18568 16084 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\models.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 12:52:39,564 autoreload 17668 16072 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-07-30 12:52:45,317 autoreload 17668 16072 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\models.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 12:52:46,413 autoreload 10352 17924 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 12:52:46,713 connectionpool 10352 7132 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 12:52:47,093 connectionpool 10352 7132 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-07-30 12:52:48,069 autoreload 10352 17924 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\models.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 12:52:49,156 autoreload 856 12904 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 12:52:49,452 connectionpool 856 11788 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 12:52:49,829 connectionpool 856 11788 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-07-30 13:22:40,315 autoreload 856 12904 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 13:22:42,512 autoreload 15984 16100 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 13:22:43,080 connectionpool 15984 2328 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 13:22:43,840 connectionpool 15984 2328 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-07-30 13:22:54,782 autoreload 15984 16100 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 13:22:57,111 autoreload 15584 4392 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 13:22:57,783 connectionpool 15584 6844 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 13:22:58,440 connectionpool 15584 6844 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-07-30 13:23:01,365 autoreload 15584 4392 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-07-30 13:23:04,060 autoreload 17676 17480 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-07-30 13:23:04,590 connectionpool 17676 18156 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-07-30 13:23:05,189 connectionpool 17676 18156 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:13:08,180 autoreload 8676 17476 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:13:17,676 autoreload 8676 17476 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:13:19,778 autoreload 21548 2376 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:13:23,790 autoreload 21548 2376 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:13:25,619 autoreload 5196 19244 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:13:29,789 autoreload 5196 19244 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:13:31,714 autoreload 9508 12596 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:14:46,312 autoreload 9508 12596 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:14:48,842 autoreload 17612 20136 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:15:08,419 autoreload 17612 20136 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:15:10,273 autoreload 19068 18416 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:15:12,520 autoreload 19068 18416 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:15:14,271 autoreload 3752 11548 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:15:16,628 autoreload 3752 11548 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:15:18,913 autoreload 15744 27076 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:15:24,132 autoreload 15744 27076 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:15:26,158 autoreload 18856 12132 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:15:28,137 autoreload 18856 12132 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:15:29,967 autoreload 19560 26280 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:15:34,401 autoreload 19560 26280 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:15:36,309 autoreload 20728 19672 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:17:14,056 autoreload 20728 19672 C:\Users\DEV-018\Desktop\sakib\backend\demo\demo\urls.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:17:16,170 autoreload 14248 5908 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:17:21,489 autoreload 14248 5908 C:\Users\DEV-018\Desktop\sakib\backend\demo\demo\urls.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:17:23,278 autoreload 16416 18588 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:17:25,093 connectionpool 16416 11256 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:17:25,798 connectionpool 16416 11256 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:18:44,870 autoreload 16416 18588 C:\Users\DEV-018\Desktop\sakib\backend\demo\demo\urls.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:18:47,014 autoreload 19212 6284 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:18:47,572 connectionpool 19212 20980 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:18:48,129 connectionpool 19212 20980 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:18:48,938 autoreload 19212 6284 C:\Users\DEV-018\Desktop\sakib\backend\demo\demo\urls.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:18:50,978 autoreload 16616 10236 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:18:51,575 connectionpool 16616 17444 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:18:52,332 connectionpool 16616 17444 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:19:11,355 autoreload 5608 21368 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:19:24,245 connectionpool 5608 26560 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+django.request WARNING 2024-08-23 12:19:24,665 log 5608 18580 Not Found: /favicon.ico
+urllib3.connectionpool DEBUG 2024-08-23 12:19:25,409 connectionpool 5608 26560 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:19:25,607 connectionpool 5608 26560 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:19:41,550 autoreload 5608 21368 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:19:41,790 connectionpool 5608 26560 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:19:43,769 autoreload 17212 21324 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:19:45,825 autoreload 17212 21324 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:19:47,630 autoreload 15960 19940 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:20:13,299 autoreload 15960 19940 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:20:15,275 autoreload 13384 14420 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:20:30,887 autoreload 13384 14420 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:20:33,244 autoreload 20660 26388 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:20:59,665 connectionpool 20660 25960 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:21:00,185 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+asyncio DEBUG 2024-08-23 12:21:48,155 proactor_events 26196 10132 Using proactor: IocpProactor
+urllib3.connectionpool DEBUG 2024-08-23 12:21:59,925 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+asyncio DEBUG 2024-08-23 12:22:20,362 proactor_events 26196 10132 Using proactor: IocpProactor
+asyncio DEBUG 2024-08-23 12:22:50,793 proactor_events 26196 10132 Using proactor: IocpProactor
+asyncio DEBUG 2024-08-23 12:23:06,975 proactor_events 26196 10132 Using proactor: IocpProactor
+asyncio DEBUG 2024-08-23 12:23:10,792 proactor_events 26196 10132 Using proactor: IocpProactor
+urllib3.connectionpool DEBUG 2024-08-23 12:24:51,752 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:51,961 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:52,166 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:52,320 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:52,494 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:52,645 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:52,805 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:52,955 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:53,185 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:59,436 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:24:59,945 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:07,625 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:07,785 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:07,935 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:08,088 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:08,249 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:08,396 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:11,549 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:11,705 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:11,860 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:12,029 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:12,234 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:12,456 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:12,638 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:12,847 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:12,995 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:13,258 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:13,413 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:13,670 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:13,819 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:19,786 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:20,016 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:21,005 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:21,245 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:21,452 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:21,658 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:23,810 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:27,386 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:27,588 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:29,126 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:29,277 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:29,435 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:29,745 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:29,948 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:30,115 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:30,358 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:30,666 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:30,972 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:31,181 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:25:59,849 connectionpool 20660 25960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:42:55,608 autoreload 20660 26388 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:42:58,010 autoreload 5196 17568 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:43:01,025 connectionpool 5196 5832 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:43:01,602 connectionpool 5196 5832 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:04,471 connectionpool 5196 5832 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:04,677 connectionpool 5196 5832 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:06,517 connectionpool 5196 5832 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:06,717 connectionpool 5196 5832 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:43:17,247 autoreload 5196 17568 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:43:17,410 connectionpool 5196 5832 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:43:19,529 autoreload 8692 20268 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:43:27,103 connectionpool 8692 3024 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:43:27,687 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:27,919 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:28,743 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:28,941 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:39,187 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:40,417 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:40,607 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:44,119 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:46,449 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:43:46,662 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:24,459 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:27,310 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:30,189 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:31,407 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:31,557 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:31,722 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:35,503 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:40,932 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:41,135 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:42,877 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:44:43,092 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:45:05,952 autoreload 8692 20268 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:45:06,129 connectionpool 8692 3024 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:45:08,107 autoreload 26244 13404 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:45:50,055 autoreload 26244 13404 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:45:52,157 autoreload 1284 21628 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:45:56,907 connectionpool 1284 19920 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:45:57,927 connectionpool 1284 19920 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.request ERROR 2024-08-23 12:46:00,054 log 1284 9316 Internal Server Error: /f
+Traceback (most recent call last):
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py", line 115, in fun1
+    setattr(movie, 'description', 'A movie about dreams within dreams all.')
+AttributeError: 'tuple' object has no attribute 'description'
+urllib3.connectionpool DEBUG 2024-08-23 12:46:00,202 connectionpool 1284 19920 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:46:00,359 connectionpool 1284 19920 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:46:29,172 autoreload 1284 21628 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:46:29,331 connectionpool 1284 19920 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:46:31,846 autoreload 4900 21848 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:46:36,823 connectionpool 4900 25700 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+django.request ERROR 2024-08-23 12:46:36,864 log 4900 13512 Internal Server Error: /f
+Traceback (most recent call last):
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py", line 116, in fun1
+    setattr(movie, 'description', 'A movie about dreams within dreams all.')
+AttributeError: 'tuple' object has no attribute 'description'
+urllib3.connectionpool DEBUG 2024-08-23 12:46:37,868 connectionpool 4900 25700 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:46:38,076 connectionpool 4900 25700 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:47:37,027 connectionpool 4900 25700 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:49:32,193 autoreload 4900 21848 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:49:33,536 autoreload 13028 9960 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:49:37,261 autoreload 13028 9960 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:49:38,566 autoreload 23624 26888 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:50:27,706 autoreload 23624 26888 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:50:28,961 autoreload 22792 22844 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:50:29,291 connectionpool 22792 19236 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:50:29,746 connectionpool 22792 19236 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:50:31,569 autoreload 22792 22844 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:50:32,704 autoreload 25180 25412 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:50:36,414 autoreload 25180 25412 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:50:37,571 autoreload 17888 24596 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:50:48,646 connectionpool 17888 3552 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:50:49,305 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:50:59,761 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:50:59,921 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:51:06,295 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:51:07,628 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:51:07,790 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:51:07,953 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:51:48,806 connectionpool 17888 3552 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:51:49,631 autoreload 17888 24596 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:51:50,741 autoreload 5952 20908 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:51:57,587 autoreload 5952 20908 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:51:58,711 autoreload 22488 24200 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:52:17,171 connectionpool 22488 21960 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:52:17,525 connectionpool 22488 21960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:52:22,652 connectionpool 22488 21960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:52:22,812 connectionpool 22488 21960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:52:38,341 autoreload 22488 24200 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:52:38,501 connectionpool 22488 21960 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:52:39,774 autoreload 15640 23224 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:52:40,041 connectionpool 15640 20992 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:52:40,433 connectionpool 15640 20992 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:52:46,454 autoreload 15640 23224 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:52:47,651 autoreload 17468 11356 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:52:47,941 connectionpool 17468 3236 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:52:48,337 connectionpool 17468 3236 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:52:53,373 autoreload 17468 11356 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:52:54,521 autoreload 21188 20700 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:52:57,199 autoreload 21188 20700 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:52:58,341 autoreload 15620 17932 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:52:59,941 autoreload 15620 17932 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:53:01,141 autoreload 2944 8256 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:53:04,841 autoreload 2944 8256 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:53:05,948 autoreload 18868 27096 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:53:09,661 autoreload 18868 27096 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:53:10,834 autoreload 9184 20036 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:53:11,081 connectionpool 9184 7412 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:53:11,478 connectionpool 9184 7412 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:53:12,466 autoreload 9184 20036 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:53:13,581 autoreload 20436 19632 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:53:19,107 connectionpool 20436 19520 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:53:19,731 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:20,287 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:20,445 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:20,601 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:23,144 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:27,885 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:28,043 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:29,478 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:29,633 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:39,022 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:41,974 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:43,618 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:43,772 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:45,388 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:53:45,543 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:54:10,368 autoreload 20436 19632 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:54:10,524 connectionpool 20436 19520 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:54:11,721 autoreload 27552 3588 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:54:14,421 autoreload 27552 3588 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:54:15,625 autoreload 2304 26832 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:54:19,394 autoreload 2304 26832 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:54:20,601 autoreload 15796 25816 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:54:22,413 connectionpool 15796 15928 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:54:22,781 connectionpool 15796 15928 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:54:42,266 autoreload 15796 25816 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:54:42,431 connectionpool 15796 15928 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:54:43,665 autoreload 6284 21292 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:54:47,415 autoreload 6284 21292 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:54:48,571 autoreload 23868 3404 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:54:48,821 connectionpool 23868 21028 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:54:49,201 connectionpool 23868 21028 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:54:50,180 autoreload 23868 3404 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:54:51,221 autoreload 23108 2280 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:54:53,508 connectionpool 23108 26472 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:54:53,865 connectionpool 23108 26472 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:54:59,702 connectionpool 23108 26472 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:54:59,863 connectionpool 23108 26472 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:55:20,276 autoreload 23108 2280 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:55:20,439 connectionpool 23108 26472 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:55:21,699 autoreload 9048 25908 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:56:31,046 autoreload 9048 25908 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:56:32,251 autoreload 19624 14280 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:56:32,549 connectionpool 19624 17976 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:56:32,970 connectionpool 19624 17976 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:56:35,872 autoreload 19624 14280 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:56:36,991 autoreload 20848 26264 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:56:53,251 connectionpool 20848 20812 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:56:53,908 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:11,894 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:13,099 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:13,871 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:14,561 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:21,896 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:22,062 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:27,655 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:28,919 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:29,076 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:57:29,243 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:57:43,931 autoreload 20848 26264 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:57:44,098 connectionpool 20848 20812 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:57:45,288 autoreload 16880 19668 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:57:46,926 autoreload 16880 19668 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:57:47,991 autoreload 22068 27524 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:58:26,611 connectionpool 22068 19692 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:58:26,971 connectionpool 22068 19692 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:58:29,525 connectionpool 22068 19692 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:58:57,994 autoreload 22068 27524 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 12:58:58,151 connectionpool 22068 19692 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 12:58:59,292 autoreload 3912 26532 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:59:00,956 autoreload 3912 26532 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:59:02,151 autoreload 12292 19380 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 12:59:04,803 autoreload 12292 19380 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 12:59:06,034 autoreload 3152 10288 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 12:59:11,581 connectionpool 3152 20336 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 12:59:12,232 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:59:12,393 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:59:16,489 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:59:17,809 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:59:17,969 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:59:18,142 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:59:20,749 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 12:59:28,131 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 13:00:00,487 autoreload 3152 10288 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+urllib3.connectionpool DEBUG 2024-08-23 13:00:00,638 connectionpool 3152 20336 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+django.utils.autoreload INFO 2024-08-23 13:00:01,792 autoreload 21428 22148 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 13:00:03,481 autoreload 21428 22148 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 13:00:04,637 autoreload 25656 3412 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-23 13:00:07,254 autoreload 25656 3412 C:\Users\DEV-018\Desktop\sakib\backend\demo\base\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-23 13:00:08,397 autoreload 22512 7440 Watching for file changes with StatReloader
+urllib3.connectionpool DEBUG 2024-08-23 13:01:12,278 connectionpool 22512 24764 Starting new HTTPS connection (1): o4507225874235392.ingest.us.sentry.io:443
+urllib3.connectionpool DEBUG 2024-08-23 13:01:12,646 connectionpool 22512 24764 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0
+urllib3.connectionpool DEBUG 2024-08-23 13:02:12,428 connectionpool 22512 24764 https://o4507225874235392.ingest.us.sentry.io:443 "POST /api/4507226192740352/envelope/ HTTP/1.1" 200 0

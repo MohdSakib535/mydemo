@@ -1,0 +1,6 @@
+
+ฌpython:S101"cRename class "Data_view" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(–ฦูÿÿÿÿÿ8ช…ณ์2J$641161fd-ea81-40e3-a413-e64db7cc5932
+cpython:S125"Remove this commented out code.(–ฯช8ช…ณ์2J$14fd0eb6-bf3a-47bd-8555-82e062db1ad0
+ขpython:S117&"YRename this local variable "usr_Data" to match the regular expression ^[_a-z][a-z0-9_]*$.(๚ืÞ๛ÿÿÿÿ8ช…ณ์2J$1d5afd76-608e-4555-b58c-a5d9f2f2bc3d
+python:S3457B"EAdd replacement fields or use a normal string instead of an f-string.(ีýฏ๘8ช…ณ์2J$1c426115-7ebf-49b7-8ccc-3b2a55712db8
+ฐpython:S101Q"gRename class "Resource_view" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(แ๋๙ÿÿÿÿ8ช…ณ์2J$7f77e401-611c-4834-bc07-274a7f761558

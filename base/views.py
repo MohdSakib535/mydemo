@@ -6,6 +6,7 @@ from rest_framework.response import Response
 from base.models import Snippet, Resource, Movie
 from drf_yasg.utils import swagger_auto_schema
 import logging
+from django.contrib.auth.models import Permission
 
 logger = logging.getLogger(__name__)
 
@@ -50,7 +51,6 @@ class snippet_view(APIView):
             return Response({"response":err})
 
 
-
 class snippet_details(APIView):
     def get(self,request,pk,format=None):
         try:
@@ -75,9 +75,6 @@ class snippet_details(APIView):
             return Response({"Reponse":sre1.data,"status":"Updated"})
         
 
-
-
-
 class Resource_view(APIView):
     def get(self,request,format=None):
         user_data=Resource.objects.all()
@@ -90,3 +87,56 @@ class Resource_view(APIView):
         if r_data.is_valid():
             r_data.save()
             return Response({"response":r_data.data})
+        
+
+from django.http import HttpResponse
+
+def fun1(request):
+    movie,created = Movie.objects.get_or_create(
+    title='Inception',
+    description='A mind-bending thriller by Christopher Nolan.',
+    release_date='2010-07-16',
+    rating=9,
+    us_gross=292576195,
+    worldwide_gross=829895144,
+    )
+    # print('movie-----',movie)
+    # print('created----',created)
+
+        # Retrieve the title dynamically
+    title = getattr(movie, 'title', 'No title available')
+    # print('title---------',title)  # Output: Inception
+
+    # Attempt to access a non-existing attribute with a default value
+    director = getattr(movie, 'director', 'Director not specified')
+    # print('director---------',director)  # Output: Director not specified
+
+    # Dynamically set the description
+    if created == False:
+
+        #triggere once once
+
+        # setattr(movie, 'description', 'A movie about dreams within dreams all.')
+        # movie.save()
+
+         # Check the updated description
+        # print('description-data----',movie.description)  # Output: A movie about dreams within dreams.
+
+
+        # Check if the Movie instance has a 'rating' attribute
+        if hasattr(movie, 'rating'):
+            print(f"Rating: {getattr(movie, 'rating')}")
+        else:
+            print("Rating attribute not found.")
+
+        # Check if the Movie instance has a 'director' attribute
+        if hasattr(movie, 'director'):
+            print(f"Director: {getattr(movie, 'director')}")
+        else:
+            print("Director attribute not found.")  # Output: Director attribute not found.
+
+    
+    if created:
+        return HttpResponse('created')
+
+    return HttpResponse('get only')

@@ -51,6 +51,12 @@ class Resource(models.Model):
     content = models.TextField()
     liked_by = models.ManyToManyField(to=User)
     snippet_data=models.ForeignKey(Snippet,on_delete=models.CASCADE,related_name='%(app_label)s_%(class)s_snippet_data')
+
+    # class Meta:
+    #     permissions=[
+    #         ("view_resource", "Can view resource"),
+    #         ("special_permission", "Can perform special action"),
+    #     ]
     
 
     def __str__(self):
@@ -65,7 +71,7 @@ class Movie(models.Model):
     rating = models.PositiveSmallIntegerField()
     us_gross = models.IntegerField(default=0)
     worldwide_gross = models.IntegerField(default=0)
-    movie_resource=models.ForeignKey(Resource,on_delete=models.CASCADE,related_name='%(app_label)s_%(class)s_movie_resource')
+    movie_resource=models.ForeignKey(Resource,on_delete=models.CASCADE,related_name='%(app_label)s_%(class)s_movie_resource',null=True,blank=True)
 
 
 
